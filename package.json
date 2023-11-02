@@ -1,0 +1,16 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "starting my journey to learn backenmd with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "chai"
+  ],
+  "author": "sarwan kumar",
+  "license": "ISC"
+}
